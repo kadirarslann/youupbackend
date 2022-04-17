@@ -1,0 +1,19 @@
+pip install flask --->>> instal python
+set FLASK_APP = flask.blog  --->>> seting flash environmewnt
+SET FLASK_DEBUG=1  --->>> set debug mode on to see changes wtihout restart    (( direk python ile yürütebilieriz böylece durmadan systme enviroment koymamıza gerek kalmakz))
+
+pip install flask-wtf
+pip install email_validator
+pip install -U flask-cors
+pip install gunicorn
+
+import secrets---- secrets.token_hex(16)
+
+pip install flask-sqlalchemy
+pip install flask-bcrypt
+
+pip install flask-login
+
+pip install psycopg2
+pip install psycopg2-binary
+
